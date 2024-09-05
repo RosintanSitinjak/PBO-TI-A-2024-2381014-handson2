@@ -9,6 +9,6 @@ public class Logika {
         System.out.println(" a AND b = " + hasilAnd);
 
         boolean hasilOr = a || b;
-        System.out.println("a OR b = " + hasilOr);
-}
+        System.out.println(" a OR b = " + hasilOr);
+    }
 }

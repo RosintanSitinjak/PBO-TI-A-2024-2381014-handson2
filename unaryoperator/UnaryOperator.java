@@ -25,6 +25,6 @@ public class UnaryOperator {
         System.out.println("setelah x : " + x);
 
         // Boolean
-        System.out.println("value variable !benar : "+ !benar);
+        System.out.println("value variable !benar : " + !benar);
     }
 }

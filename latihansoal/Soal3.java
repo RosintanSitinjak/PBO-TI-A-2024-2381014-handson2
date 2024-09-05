@@ -24,7 +24,7 @@ public class Soal3 {
         System.out.println("Masukan bilangan kedua: ");
         int num2 = input.nextInt();
 
-        int result = 0;
+        int result;
 
         switch (select) {
             case 1:

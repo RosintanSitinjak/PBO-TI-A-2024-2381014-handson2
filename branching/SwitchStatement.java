@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SwitchStatement  {
+public class SwitchStatement {
     // angka bisa diprediksi/rentang angka ga bisa diprediksi
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

@@ -22,7 +22,7 @@ public class Perbandingan {
         System.out.println("a < b: " + hasilLebihKecilDari);
 
         // lebih besar atau sama dengan
-        boolean hasilLebihBesarSamaDengan = ( a >= b);
+        boolean hasilLebihBesarSamaDengan = (a >= b);
         System.out.println("a >= b:" + hasilLebihBesarSamaDengan);
 
         // lebih kecil atau sama dengan
